@@ -134,6 +134,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="Content\site.css" />
     <Content Include="Global.asax" />
+    <None Include="Properties\PublishProfiles\gchsSudoku.pubxml" />
     <None Include="scripts\jquery-2.0.3.intellisense.js" />
     <Content Include="scripts\jquery-2.0.3.js" />
     <Content Include="scripts\jquery-2.0.3.min.js" />
